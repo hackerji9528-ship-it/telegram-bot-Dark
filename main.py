@@ -1,6 +1,6 @@
 import telebot
 
-TOKEN = "YOUR_TELEGRAM_TOKEN_HERE"
+TOKEN = "8366100206:AAHN9Np0X50cuvB4lNq_n8Hq07YPe4j0x3I"
 bot = telebot.TeleBot(TOKEN)
 
 @bot.message_handler(func=lambda msg: True)
